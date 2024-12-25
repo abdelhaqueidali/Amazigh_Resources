@@ -114,6 +114,32 @@ https://play.google.com/store/apps/details?id=site.tafsut.DictionaryEng
 https://apkpure.com/english-tamazight-dictionary/site.tafsut.DictionaryEng
 
 # Apps (Android/IOS)
+<br>
+1. ⴰⴼⵜ (Cross Words game)
+<br>
+https://apkpure.com/%E2%B4%B0%E2%B4%BC%E2%B5%9C-aft/com.w_7883786
+<br>
+<br>
+2. Tiguriwin (Words game)
+<br>
+https://tiguriwin.en.uptodown.com/android
+<br>
+<br>
+3. Uttunn (Numbers to Word)
+<br>
+https://uttunn.en.uptodown.com/android
+<br>
+4. Amazigh Calendar (by AntiAtlas dev)
+<br>
+https://www.amazon.ca/Anti-Atlas-Dev-Amazigh-Calendar/dp/B0DJPRFHTK/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qZD_gxjZO0WSxM2x1gWeBOTs7JU0Ow2sAdh90mDChQxVBt7vIkcJvXa_1vAF2_57YdH-Pitt9onOXjvc1mENe3fklHJlEQImpjh_9Nn_Kc4.r_r2_DaqShiVj5xwUsd2WCZ6vwjATVEf-BnXO2dgGFk&dib_tag=se&qid=1735168949&refinements=p_4%3AAnti+Atlas+Dev&s=mobile-apps&search-type=ss&sr=1-1
+<br>
+<br>
+5. Amazigh tool converter (Tifinagh to Latin converter)
+<br>
+https://www.amazon.ca/Anti-Atlas-Dev-Amazigh-Converter/dp/B0DDCN2CGM/ref=sr_1_2?dib=eyJ2IjoiMSJ9.qZD_gxjZO0WSxM2x1gWeBOTs7JU0Ow2sAdh90mDChQxVBt7vIkcJvXa_1vAF2_57YdH-Pitt9onOXjvc1mENe3fklHJlEQImpjh_9Nn_Kc4.r_r2_DaqShiVj5xwUsd2WCZ6vwjATVEf-BnXO2dgGFk&dib_tag=se&qid=1735168949&refinements=p_4%3AAnti+Atlas+Dev&s=mobile-apps&search-type=ss&sr=1-2
+<br>
+<br>
+<br>
 
 # Software ( Winfows/Linux)
 
@@ -122,18 +148,8 @@ https://apkpure.com/english-tamazight-dictionary/site.tafsut.DictionaryEng
 # Amazigh Lyrics
 <br>
 https://github.com/abdelhaqueidali/Amazigh-Lyrics-Files-LRC
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 <br>
 <br>
 <br>
