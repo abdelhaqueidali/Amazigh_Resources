@@ -67,7 +67,7 @@ https://mega.nz/file/hTUhBIZK#Tl68kPrXTP-VRw3AqPeOYm7FW_BEBj-DSr6rPg17sf0
 
 # Amazigh Lyrics
 <br>
-https://github.com/abdelhaqueidali/Amazigh-Lyrics-Files-LRC-
+https://github.com/abdelhaqueidali/Amazigh-Lyrics-Files-LRC
 <br>
 <br>
 <br>
