@@ -111,6 +111,7 @@ English
 <br>
 https://play.google.com/store/apps/details?id=site.tafsut.DictionaryEng
 <br>
+https://apkpure.com/english-tamazight-dictionary/site.tafsut.DictionaryEng
 
 # Amazigh Lyrics
 <br>
