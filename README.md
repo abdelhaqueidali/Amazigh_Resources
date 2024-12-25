@@ -45,20 +45,10 @@ https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.t
 <br>
 https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en
 <br>
+Additional Amazigh layouts for Multiling O Keyboard
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+https://github.com/abdelhaqueidali/Layouts-for-Multiling-O-Keyboard
+
 # Dictionaries
 Collection 1 13MB
 <br>
@@ -72,6 +62,21 @@ https://www.mediafire.com/file/ufygb33gv9hwt96/IMAWALEN_N_TMAZIGHT_A._Amafella.z
 Or
 <br>
 https://mega.nz/file/hTUhBIZK#Tl68kPrXTP-VRw3AqPeOYm7FW_BEBj-DSr6rPg17sf0
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
