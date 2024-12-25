@@ -113,6 +113,12 @@ https://play.google.com/store/apps/details?id=site.tafsut.DictionaryEng
 <br>
 https://apkpure.com/english-tamazight-dictionary/site.tafsut.DictionaryEng
 
+# Apps (Android/IOS)
+
+# Software ( Winfows/Linux)
+
+
+
 # Amazigh Lyrics
 <br>
 https://github.com/abdelhaqueidali/Amazigh-Lyrics-Files-LRC
