@@ -50,6 +50,8 @@ Additional Amazigh layouts for Multiling O Keyboard
 https://github.com/abdelhaqueidali/Layouts-for-Multiling-O-Keyboard
 
 # Dictionaries
+<b>PDF</b> 
+<br>
 Collection 1 13MB
 <br>
 https://drive.google.com/drive/folders/0B3cwgBBcw9WJMm8tMlZab2xEcjA?resourcekey=0-47iCaKJPVXyyMyWbKmWgcA&usp=drive_link
@@ -63,6 +65,51 @@ Or
 <br>
 https://mega.nz/file/hTUhBIZK#Tl68kPrXTP-VRw3AqPeOYm7FW_BEBj-DSr6rPg17sf0
 <br>
+<br>
+<b>Apps</b>
+<br>
+DGLAi by IRCAM
+<br>
+Français-العربية
+<br>
+https://play.google.com/store/apps/details?id=com.ircam.dglai_app
+<br>
+<br>
+Dictionaries by Madghis U'Madi
+<br>
+العربية
+<br>
+https://play.google.com/store/apps/details?id=com.yoosin.TifnaghDictionaryArabic
+<br>
+Français
+<br>
+https://play.google.com/store/apps/details?id=com.geekycorp.TifnaghDictionary
+<br>
+<br>
+Dictionaries by Elmoussafir Fatima Zahra
+<br>
+العربية
+<br>
+https://play.google.com/store/apps/details?id=com.elmoussafirfatimazahra.amawal
+<br>
+Français
+<br>
+https://play.google.com/store/apps/details?id=com.elmoussafir.amawal1
+<br>
+Français-العربية
+<br>
+https://play.google.com/store/apps/details?id=com.elmoussafir.amawal2&hl=en
+<br>
+<br>
+Dictionaries by Tafsut
+<br>
+Français-العربية
+<br>
+https://play.google.com/store/apps/details?id=site.tafsut.amazighdictionary
+<br>
+English
+<br>
+https://play.google.com/store/apps/details?id=site.tafsut.DictionaryEng
 <br>
 
 # Amazigh Lyrics
