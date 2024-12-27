@@ -7,7 +7,7 @@ Keywords :
 Amazigh, Berber, Tamazight, Tifingh
 # Fonts
 <br>
-All Fonts Unicode including Irc and Tawalt fonts and others (Recommended) :
+All Fonts Unicode including Ircam and Tawalt fonts and others (Recommended) :
 <br>
 https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh
 <br>
