@@ -141,7 +141,7 @@ https://www.amazon.ca/Anti-Atlas-Dev-Amazigh-Converter/dp/B0DDCN2CGM/ref=sr_1_2?
 <br>
 <br>
 
-# Software ( Winfows/Linux)
+# Software ( Windows/Linux)
 
 
 
